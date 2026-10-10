@@ -46,7 +46,7 @@ hobby: ["Coding", "Learning new tech"]
 ### 🛠️ Tech Stack
 
 #### Programming Languages
-![My Skills](https://skillicons.dev/icons?i=html,css,py,php,js)
+![My Skills](https://skillicons.dev/icons?i=html,css,py,go,php,js)
 
 #### Frameworks & Libraries
 ![My Skills](https://skillicons.dev/icons?i=bootstrap,flask,fastapi,laravel)
@@ -79,12 +79,6 @@ hobby: ["Coding", "Learning new tech"]
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=msdzulqurnain&theme=dracula&border_radius=10)](https://git.io/streak-stats)
 
 </div>
-
----
-
-### 📈 Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=msdzulqurnain&theme=dracula&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
