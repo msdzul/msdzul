@@ -68,15 +68,15 @@ hobby: ["Coding", "Learning new tech"]
   <table>
     <tr>
       <td>
-        <img src="https://vercel-github-readme-stats-psi.vercel.app/api?username=msdzulqurnain&hide=stars&hide_title=true&include_all_commits=true&show_icons=true&count_private=true&theme=dracula&border_radius=10" alt="GitHub Stats"/>
+        <img src="https://vercel-github-readme-stats-psi.vercel.app/api?username=msdzulqurnain&hide=stars&hide_title=true&include_all_commits=true&show_icons=true&count_private=true&theme=dracula&border_radius=10&cache_seconds=21600" alt="GitHub Stats"/>
       </td>
       <td>
-        <img src="https://vercel-github-readme-stats-psi.vercel.app/api/top-langs/?username=msdzulqurnain&layout=compact&langs_count=4&theme=dracula&border_radius=10" alt="Top Languages"/>
+        <img src="https://vercel-github-readme-stats-psi.vercel.app/api/top-langs/?username=msdzulqurnain&layout=compact&langs_count=4&theme=dracula&border_radius=10&cache_seconds=21600" alt="Top Languages"/>
       </td>
     </tr>
   </table>
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=msdzulqurnain&theme=dracula&border_radius=10)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=msdzulqurnain&theme=dracula&border_radius=10&timezone=Asia/Jakarta)](https://git.io/streak-stats)
 
 </div>
 
