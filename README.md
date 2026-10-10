@@ -3,7 +3,7 @@
   ![w](img/github-header-banner.png)
 
   <a href="https://youtube.com/@msdzulqurnain"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://www.instagram.com/ms.dzul/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/msdzul_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://x.com/msdzulqurnain"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://threads.net/@ms.dzul"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/></a>
   <a href="https://t.me/msdzul"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
@@ -46,7 +46,7 @@ hobby: ["Coding", "Learning new tech"]
 ### 🛠️ Tech Stack
 
 #### Programming Languages
-![My Skills](https://skillicons.dev/icons?i=html,css,py,php,js)
+![My Skills](https://skillicons.dev/icons?i=html,css,py,go,php,js)
 
 #### Frameworks & Libraries
 ![My Skills](https://skillicons.dev/icons?i=bootstrap,flask,fastapi,laravel)
@@ -68,23 +68,17 @@ hobby: ["Coding", "Learning new tech"]
   <table>
     <tr>
       <td>
-        <img src="https://vercel-github-readme-stats-psi.vercel.app/api?username=msdzulqurnain&hide=stars&hide_title=true&include_all_commits=true&show_icons=true&count_private=true&theme=dracula&border_radius=10" alt="GitHub Stats"/>
+        <img src="https://vercel-github-readme-stats-psi.vercel.app/api?username=msdzulqurnain&hide=stars&hide_title=true&include_all_commits=true&show_icons=true&count_private=true&theme=dracula&border_radius=10&cache_seconds=21600" alt="GitHub Stats"/>
       </td>
       <td>
-        <img src="https://vercel-github-readme-stats-psi.vercel.app/api/top-langs/?username=msdzulqurnain&layout=compact&langs_count=4&theme=dracula&border_radius=10" alt="Top Languages"/>
+        <img src="https://vercel-github-readme-stats-psi.vercel.app/api/top-langs/?username=msdzulqurnain&layout=compact&langs_count=4&theme=dracula&border_radius=10&cache_seconds=21600" alt="Top Languages"/>
       </td>
     </tr>
   </table>
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=msdzulqurnain&theme=dracula&border_radius=10)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=msdzulqurnain&theme=dracula&border_radius=10&timezone=Asia/Jakarta)](https://git.io/streak-stats)
 
 </div>
-
----
-
-### 📈 Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=msdzulqurnain&theme=dracula&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
